@@ -31,13 +31,13 @@ Por supuesto, enviaré mi trabajo a revistas, pero con el correspondiente envío
 
 - [ ] Medición del tamaño superficial de gravas en una llanura de inundación tropical usando SfM aplicado a imágenes tomadas por drone y *machine learning*.
 
-- [ ] Asociación con variables ambientales de comunidades de plantas en un bosque seco de República Dominicana.
-
 ## "Fondo" (2023 y más allá)
 
 - [ ] Macroinvertebrados de agua dulce de un río tropical intervenido antrópicamente: asociación con microhábitat.
 
 - [ ] Fuego y sequía en República Dominicana durante el siglo XXI.
+
+- [ ] Asociación con variables ambientales de comunidades de plantas en un bosque seco de República Dominicana.
 
 - [ ] Medición de la deformación superficial en la cuenca del río Ocoa a partir de small baseline subset (SBAS).
 
@@ -67,7 +67,7 @@ Por supuesto, enviaré mi trabajo a revistas, pero con el correspondiente envío
 
 ----
 
-## De lo que me propuse para el segundo semestre de 2022, ¿qué logré?
+## De lo que me propuse para el segundo semestre de 2021, ¿qué logré?
 
 ### Investigación
 
@@ -85,6 +85,7 @@ Por supuesto, enviaré mi trabajo a revistas, pero con el correspondiente envío
   - Presentado en las XX Jornada de Investigación Científica de la UASD (XX JIC-UASD). [Diapositivas](https://geofis.github.io/sd-sbas/#/). [Vídeo de presentación](https://www.youtube.com/watch?v=Tq1QtuSkwLE&t=5585s).
 
 ### Docencia
+
 
 
 ### Actividades de extensión
