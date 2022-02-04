@@ -59,7 +59,7 @@ Por supuesto, enviaré mis manuscritos a revistas, pero previamente publicando e
   - [Datos fuente](https://zenodo.org/record/5681481#.Yf2KInUzb0o).
   - [Diapositivas](https://geofis.github.io/historia-de-un-rechazo-ordenacion-comunidades-plantas-ocoa/).
 
-<img src="plant-community.jpg" width="400"/>
+<img src="plant-community.jpg" width="500"/>
 
 - [x] Pérdida de bosque y fuego en República Dominicana durante el siglo XXI. Remitido a **Peer Community in**, organización científica sin fines de lucro que ofrece un proceso editorial de ciencia abierta mediante la creación de comunidades específicas de investigadores que revisan y recomiendan *preprints*. **La editorial solicitó una "revisión menor". Me encuentro en proceso de remitir revisión**. Presentado en las XX Jornada de Investigación Científica de la UASD (XX JIC-UASD).
   - [Preprint remitido a bioRxiv](https://www.biorxiv.org/content/10.1101/2021.06.15.448604v2).
