@@ -58,7 +58,8 @@ Por supuesto, enviaré mis manuscritos a revistas, pero previamente publicando e
   - [Código de R reproducible del manuscrito](https://github.com/geofis/forest-loss-fire-reproducible). Incluye código usado para los análisis y cuadernos RMarkdown debidamente tejidos a formato PDF.
   - [Datos fuente](https://zenodo.org/record/5681481#.Yf2KInUzb0o).
   - [Diapositivas](https://geofis.github.io/historia-de-un-rechazo-ordenacion-comunidades-plantas-ocoa/).
-  - ![](plant-community.jpg){width=50%}
+
+<img src="plant-community.jpg" width="400"/>
 
 - [x] Pérdida de bosque y fuego en República Dominicana durante el siglo XXI. Remitido a **Peer Community in**, organización científica sin fines de lucro que ofrece un proceso editorial de ciencia abierta mediante la creación de comunidades específicas de investigadores que revisan y recomiendan *preprints*. **La editorial solicitó una "revisión menor". Me encuentro en proceso de remitir revisión**. Presentado en las XX Jornada de Investigación Científica de la UASD (XX JIC-UASD).
   - [Preprint remitido a bioRxiv](https://www.biorxiv.org/content/10.1101/2021.06.15.448604v2).
@@ -79,7 +80,10 @@ Por supuesto, enviaré mis manuscritos a revistas, pero previamente publicando e
 - [x] Revisitando RTK para todos. Diseño e implementación de sistema base-rover GNSS-RTK multibanda y multiconstelación de bajo costo. Presentado en las XX Jornada de Investigación Científica de la UASD (XX JIC-UASD).
   - [Diapositivas](https://geofis.github.io/rtk-para-todos/).
   - [Vídeo de presentación](https://www.youtube.com/watch?v=Jzeyj1FtHTI&t=459s).
-  - ![](rtk-para-todos.jpg){width=35%}![](rtk-para-todos-2.jpg){width=35%}
+
+|||
+|:--:|:--:|
+|![](rtk-para-todos.jpg)|![](rtk-para-todos-2.jpg)|
 
 ### Docencia
 

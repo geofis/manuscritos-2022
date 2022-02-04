@@ -104,7 +104,9 @@ servidores de *preprint* han sido leídos miles de veces.
         debidamente tejidos a formato PDF.
     -   [Datos fuente](https://zenodo.org/record/5681481#.Yf2KInUzb0o).
     -   [Diapositivas](https://geofis.github.io/historia-de-un-rechazo-ordenacion-comunidades-plantas-ocoa/).
-    -   <img src="plant-community.jpg" style="width:50.0%" />
+
+<img src="plant-community.jpg" width="400"/>
+
 -   [x] Pérdida de bosque y fuego en República Dominicana durante el
     siglo XXI. Remitido a **Peer Community in**, organización científica
     sin fines de lucro que ofrece un proceso editorial de ciencia
@@ -142,7 +144,10 @@ servidores de *preprint* han sido leídos miles de veces.
     -   [Diapositivas](https://geofis.github.io/rtk-para-todos/).
     -   [Vídeo de
         presentación](https://www.youtube.com/watch?v=Jzeyj1FtHTI&t=459s).
-    -   <img src="rtk-para-todos.jpg" style="width:35.0%" /><img src="rtk-para-todos-2.jpg" style="width:35.0%" />
+
+|                         |                           |
+|:-----------------------:|:-------------------------:|
+| ![](rtk-para-todos.jpg) | ![](rtk-para-todos-2.jpg) |
 
 ### Docencia
 
