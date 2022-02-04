@@ -59,23 +59,26 @@ Por supuesto, enviaré mis manuscritos a revistas, pero previamente publicando e
   - [Datos fuente](https://zenodo.org/record/5681481#.Yf2KInUzb0o).
   - [Diapositivas](https://geofis.github.io/historia-de-un-rechazo-ordenacion-comunidades-plantas-ocoa/).
 
-<img src="plant-community.jpg" width="500"/>
+<img src="plant-community.jpg" width="450"/>
 
 - [x] Pérdida de bosque y fuego en República Dominicana durante el siglo XXI. Remitido a **Peer Community in**, organización científica sin fines de lucro que ofrece un proceso editorial de ciencia abierta mediante la creación de comunidades específicas de investigadores que revisan y recomiendan *preprints*. **La editorial solicitó una "revisión menor". Me encuentro en proceso de remitir revisión**. Presentado en las XX Jornada de Investigación Científica de la UASD (XX JIC-UASD).
   - [Preprint remitido a bioRxiv](https://www.biorxiv.org/content/10.1101/2021.06.15.448604v2).
   - [Diapositivas](https://geofis.github.io/forest-loss-fire-reproducible/#/).
   - [Vídeo de presentación](https://www.youtube.com/watch?v=jcf0B_y2fuc&t=2390s).
-  - ![](forest-loss-fire.jpg){width=35%}
+
+<img src="forest-loss-fire.jpg" width="450"/>
 
 - [x] Medición de la deformación superficial en la ciudad de Santo Domingo a partir de small baseline subset (SBAS). Presentado en las XX Jornada de Investigación Científica de la UASD (XX JIC-UASD). Logré avances, pero necesita terminación durante este año.
   - [Diapositivas](https://geofis.github.io/sd-sbas/#/).
   - [Vídeo de presentación](https://www.youtube.com/watch?v=Tq1QtuSkwLE&t=5585s).
-  - ![](sd-sbas.jpg){width=35%}
+
+<img src="sd-sbas.jpg" width="300"/>
 
 - [x] Avances del estudio 'Cartografía geomorfológica de detalle de un río tropical usando fotografías aéreas de resolución centimétrica y deep learning'. Logré avances, pero necesita terminación durante este año.
   - [Diapositivas](https://geofis.github.io/geomorfologia-detalle-tramo-1km-rio-mana/#/).
   - [Vídeo de presentación](https://www.youtube.com/watch?v=Tq1QtuSkwLE&t=3162s).
-  - ![](cartografia-rio-mana.jpg){width=35%}
+
+<img src="cartografia-rio-mana.jpg" width="300"/>
 
 - [x] Revisitando RTK para todos. Diseño e implementación de sistema base-rover GNSS-RTK multibanda y multiconstelación de bajo costo. Presentado en las XX Jornada de Investigación Científica de la UASD (XX JIC-UASD).
   - [Diapositivas](https://geofis.github.io/rtk-para-todos/).
@@ -115,12 +118,14 @@ Durante el segundo semestre, también organicé dos cursos.
 
 - [x] Curso-Taller 'Introducción al Análisis de Biodiversidad Aplicado con R'. Asociación Dominicana de Estudiantes de Biología (ADEBIO).
   - [Repositorio de GitHub](https://github.com/geofis/curso-taller-analisis-biodiversidad-r-adebio-2021)
-  - ![](curso-r-adebio.jpg){width=50%}
+
+<img src="curso-r-adebio.jpg" width="400"/>
 
 - [x] Curso 'Introducción a los sistemas GNSS-RTK de bajo costo con software libre. Precisión para aplicaciones usando software libre y proyecto DIY'. Este es, hasta donde sé, el primero curso de GNSS-RTK impartido en RD usando sólo software de código abierto y libre, equipos de bajo costo accesibles, incluyendo la promoción y el apoyo para que participantes hicieran sus propios proyectos DIY.
   - [Repositorio de GitHub](https://github.com/geofis/rtk-para-todos/tree/gh-pages).
   - [Vídeos de las sesiones](https://www.youtube.com/playlist?list=PLDcT2n8UzsCRwLvmM2AfdNjK39RzRHTmZ)
-  - ![](curso-gnss-rtk.jpg){width=35%}
+
+<img src="curso-gnss-rtk.jpg" width="300"/>
 
 ## De lo que me propuse en 2021, ¿qué NO logré durante el segundo semestre?
 
