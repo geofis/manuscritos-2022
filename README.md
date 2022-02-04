@@ -248,8 +248,8 @@ Durante el segundo semestre, también organicé dos cursos.
     proyecto DIY’. Hasta donde sé, este es el primer curso de GNSS-RTK
     impartido en RD usando sólo software de código abierto y libre,
     equipos de bajo costo accesibles “hazlo tú mismo” (*do it
-    yourself*). También intenté dar soporte técnico a participantes para
-    que hicieran sus propios proyectos DIY.
+    yourself*). También di soporte técnico a participantes para que
+    hicieran sus propios proyectos DIY.
     -   [Repositorio de
         GitHub](https://github.com/geofis/rtk-para-todos/tree/gh-pages).
     -   [Vídeos de las
