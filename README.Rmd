@@ -1,6 +1,6 @@
 ---
 title: "Lista de manuscritos para 2022, actualizaciones e informes"
-author: "José Ramón Martínez Batlle <br> Investigador / profesor de la Universidad Autónoma de Santo Domingo (UASD) <br> Febrero, 2022"
+author: "José Ramón Martínez Batlle <br> Investigador / profesor de la Universidad Autónoma de Santo Domingo (UASD) <br> Última actualización: agosto, 2022"
 output: github_document
 editor_options: 
   chunk_output_type: console
@@ -8,7 +8,11 @@ editor_options:
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-Mi meta para 2022 será (además de impartir clases): escribir y **enviar** 3 manuscritos. Por "manuscrito" entiéndase "proyecto", porque en términos prácticos es lo que son, pero sin la parte administrativa. **Escribir y enviar un manuscrito** es el resultado de un largo camino que implica diseño de muestreo, colecta de datos, análisis, redacción, envío, revisiones, reenvío, ..., hasta alcanzar un artículo publicado. Produzco nuevo conocimiento hasta donde el autofinanciamiento me lo permite, lo cual tiene otra ventaja: mis estudiantes identifican que investigar es posible con los recursos que se tienen a mano.
+> [Saltar a informe semestre 01-2022](#informe-semestre-01-2022)
+
+> [Saltar a informe semestre 02-2021](#informe-semestre-02-2021)
+
+Mi meta para 2022 será (además de impartir clases): conseguir la publicación de un manuscrito, y escribir y **enviar** otros 3 manuscritos para publicación. Por "manuscrito" entiéndase "proyecto", porque en términos prácticos es lo que son, pero sin la parte administrativa. **Escribir y enviar un manuscrito** es el resultado de un largo camino que implica diseño de muestreo, colecta de datos, análisis, redacción, envío, revisiones, reenvío, ..., hasta alcanzar un artículo publicado. Produzco nuevo conocimiento hasta donde el autofinanciamiento me lo permite, lo cual tiene otra ventaja: mis estudiantes identifican que investigar es posible con los recursos que se tienen a mano.
 
 ¿Qué me mueve?
 
@@ -40,6 +44,8 @@ Por supuesto, enviaré mis manuscritos a revistas, pero previamente publicando e
 
 ## <a name="relacion-de-manuscritos-2022"></a> Relación de manuscritos "reservados" para 2022 (orden aleatorio)
 
+- [ ] Fuego y pérdida de bosque en República Dominicana durante el siglo XXI.
+
 - [ ] Medición de la deformación superficial en la ciudad de Santo Domingo a partir de datos GNSS-RTK correlacionado con *small baseline subset* por interferometría SAR (InSAR-SBAS).
 
 - [ ] Cartografía geomorfológica de detalle de un río tropical usando fotografías aéreas de resolución centimétrica y deep learning.
@@ -48,7 +54,39 @@ Por supuesto, enviaré mis manuscritos a revistas, pero previamente publicando e
 
 ----
 
-## De lo que me propuse en 2021, ¿qué logré durante el segundo semestre?
+## <a name="informe-semestre-01-2022"></a> De lo que me propuse en el primer semestre de 2022, ¿qué logré?
+
+### Investigación
+
+- [x] ~~Fuego y pérdida de bosque en República Dominicana durante el siglo XXI. Remitido a **Peer Community in**, en proceso de publicación~~.
+
+Este trabajo se encuentra ya en la "pasarela de publicación". El trabajo es bastante innovador, y se espera que inspire investigaciones similares en el futuro. La revista es **Peer Community Journal**, que es el órgano de difusión de **Peer Community In** (PCI). Esta es una organización sin fines de lucro conformada por científicos de todo el mundo, que ofrece un proceso editorial de ciencia abierta mediante la creación de comunidades específicas de investigadores que revisan y recomiendan preprints. Son comunidades, pero no por ello tienen baja calidad los trabajos que se recomiendan para publicación.
+
+- [ ] Colecta de datos de terreno para el estudio "Medición de la deformación superficial en la ciudad de Santo Domingo a partir de datos GNSS-RTK correlacionado con *small baseline subset* por interferometría SAR (InSAR-SBAS)"
+
+Esta investigación se encuentra avanzada. Continúo colectando datos en distintos puntos de Santo Domingo (la persona que se sienta con frecuencia por largas horas frente al Alma Mater de la UASD con un trípode, un palo y una antena "rara", soy yo). Dispongo de resultados preliminares que evidencian movimiento horizontal de la ciudad, consistente con otras observaciones y el modelo de la tectónica de placas, pero hay datos nuevos sobre movimiento vertical que podrían ser de interés para determinados barrios de la capital (Los Guandules es uno de ellos), dado que presentan altas tasas de subsidencia.
+
+### Docencia
+
+Impartidas las asignaturas "geomorfología" y "biogeografía". Evalué por medio de "pequeñas" investigaciones, no por exámenes, tal como vengo haciéndolo desde hace años.
+
+### Particularidades
+
+Como de costumbre, reitero algunas particularidades sobre mi forma de hacer ciencia y docencia:
+
+1. No me baso en financiamiento externo, uso mi salario, armo mi propio equipamiento (con hardware "hazlo tú mismo") e intento no depender de estructuras ni de fondos concursables.
+
+2. Publico todo lo que hago (código, *scripts*, manuscritos). Asimismo, desde hace algún tiempo, sólo envío trabajos a revistas de sociedad y, en ningún caso, a editoriales de lujo que exijan *article processing charges* (APC) o que sean de acceso restringido.
+
+3. Conecto los resultados de investigación con la docencia.
+
+4. Imparto cursos con el contenido de la producción científica.
+
+5. Imparto charlas sobre los temas que investigo.
+
+----
+
+## <a name="informe-semestre-02-2021"></a> De lo que me propuse en 2021, ¿qué logré durante el segundo semestre?
 
 ### Investigación
 
