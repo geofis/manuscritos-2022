@@ -44,7 +44,7 @@ Por supuesto, enviaré mis manuscritos a revistas, pero previamente publicando e
 
 ## <a name="relacion-de-manuscritos-2022"></a> Relación de manuscritos "reservados" para 2022 (orden aleatorio)
 
-- [ ] Fuego y pérdida de bosque en República Dominicana durante el siglo XXI.
+- [x] Fuego y pérdida de bosque en República Dominicana durante el siglo XXI. [¡Publicado! Ver aquí.](https://peercommunityjournal.org/articles/10.24072/pcjournal.157/)
 
 - [ ] Medición de la deformación superficial en la ciudad de Santo Domingo a partir de datos GNSS-RTK correlacionado con *small baseline subset* por interferometría SAR (InSAR-SBAS).
 
@@ -60,7 +60,7 @@ Por supuesto, enviaré mis manuscritos a revistas, pero previamente publicando e
 
 - [x] ~~Fuego y pérdida de bosque en República Dominicana durante el siglo XXI. Remitido a **Peer Community in**, en proceso de publicación~~.
 
-Este trabajo se encuentra ya en la "pasarela de publicación". El trabajo es bastante innovador, y se espera que inspire investigaciones similares en el futuro. La revista es **Peer Community Journal**, que es el órgano de difusión de **Peer Community In** (PCI). Esta es una organización sin fines de lucro conformada por científicos de todo el mundo, que ofrece un proceso editorial de ciencia abierta mediante la creación de comunidades específicas de investigadores que revisan y recomiendan preprints. Son comunidades, pero no por ello tienen baja calidad los trabajos que se recomiendan para publicación.
+Este trabajo se encuentra ya ~~en la "pasarela de publicación"~~ publicado (ver [aquí](https://peercommunityjournal.org/articles/10.24072/pcjournal.157/)). El trabajo es bastante innovador, y se espera que inspire investigaciones similares en el futuro. La revista es **Peer Community Journal**, que es el órgano de difusión de **Peer Community In** (PCI). PCI es una organización sin fines de lucro conformada por científicos de todo el mundo, que ofrece un proceso editorial de ciencia abierta mediante la creación de comunidades específicas de investigadores que revisan y recomiendan preprints. Son comunidades, pero no por ello tienen baja calidad los trabajos que se recomiendan para publicación.
 
 - [ ] Colecta de datos de terreno para el estudio "Medición de la deformación superficial en la ciudad de Santo Domingo a partir de datos GNSS-RTK correlacionado con *small baseline subset* por interferometría SAR (InSAR-SBAS)"
 
